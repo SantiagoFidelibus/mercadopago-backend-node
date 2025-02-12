@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno
+.env
+
+# Archivos de desarrollo local
+ngrok.exe
+
+# Logs
+*.log
+
+# Archivos del sistema (ej. macOS)
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
